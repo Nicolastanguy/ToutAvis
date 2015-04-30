@@ -3,6 +3,15 @@ package avis;
 import java.util.Collection;
 
 
+
+/*
+ * 
+ * Ceci est un test de synchro github.
+ * 
+ * 
+ */
+
+
 public class Membre {
 	
 	private String pseudo;
